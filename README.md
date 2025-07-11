@@ -100,7 +100,7 @@ Edite as variáveis CSS no arquivo `css/style.css`:
 ### Alterar WhatsApp
 No arquivo `js/script.js`, altere o número:
 ```javascript
-const whatsappUrl = `https://wa.me/5531983297433?text=${encodeURIComponent(message)}`;
+const whatsappUrl = `https://wa.me/5531999999999?text=${encodeURIComponent(message)}`;
 ```
 
 ## 📈 Analytics (Opcional)
